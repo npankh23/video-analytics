@@ -1,0 +1,15 @@
+Video analitics without player ID,,,
+ball_position,from,to,
+possessed,0.92,1.4,
+in_air,1.4,3.96,
+possessed,3.96,4.36,
+in_air,4.36,4.72,
+possessed,4.72,4.76,
+,,,
+Video analitics with player ID,,,
+ball_position,from,to,possessed_by
+possessed,0.92,1.4,2
+in_air,1.4,3.96,
+possessed,3.96,4.36,22
+in_air,4.36,4.72,
+possessed,4.72,4.76,22
